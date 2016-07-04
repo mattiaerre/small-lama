@@ -2,5 +2,9 @@
   {
     "name": "oc-omg-exp-001",
     "version": "0.1.X"
+  },
+  {
+    "name": "oc-omg-exp-002",
+    "version": "0.1.X"
   }
 ]
