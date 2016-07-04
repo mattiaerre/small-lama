@@ -3,10 +3,8 @@ extends layout
 block content
   h1= title
   p Welcome to #{title}
-  p!= injector
   div.main-title
     h1 !?!
 
-  ul
-    each experiment in experiments
-      li!= experiment
+block footer
+  div!= injector

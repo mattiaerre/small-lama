@@ -11,5 +11,8 @@
         "type": "handlebars"
       }
     }
+  },
+  "dependencies": {
+    "oc-client": "^1.7.2"
   }
 }

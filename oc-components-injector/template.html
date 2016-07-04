@@ -1,4 +1,10 @@
 <div>
   <h1>{{name}}</h1>
   <p>{{version}}</p>
+
+  {{#each experiments}}
+  <div>
+    {{{this}}}
+  </div>
+  {{/each}}
 </div>
