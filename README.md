@@ -1,8 +1,8 @@
 # small-lama
 
-small-lama (todo: add description)
+OpenComponents injector POC
 
 ## parts
 
-- web-app (container of the injector)
-- oc-components-injector (the engine !?!)
+- web-app (injector's container)
+- oc-components-injector
