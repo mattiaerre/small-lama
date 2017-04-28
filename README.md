@@ -1,8 +1,8 @@
-#small-lama#
+# small-lama
 
 small-lama (todo: add description)
 
-##parts##
+## parts
 
 - web-app (container of the injector)
 - oc-components-injector (the engine !?!)
